@@ -1,0 +1,13 @@
+body{
+    background-color: #100c08;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    color: white;
+}
+
+.cat{
+    image-resolution: 1920*1080;
+    width: 80%;
+    height: auto;
+    transform: rotate(90deg);
+}
